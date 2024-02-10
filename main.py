@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 def gether_operation():
     op = input("operação: ")
 
     return op
+=======
+import test
+>>>>>>> test
 
 def gether_data():
     n1 = int(input("primeiro valor: "))
